@@ -1,0 +1,17 @@
+{
+
+  "name": "xceed-inv/slim3",
+  "author": [{
+    "name": "xceed-inv",
+    "email": "raji.amine@gmail.com"
+  }],
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {
+    "slim/slim": "^3.0",
+    "slim/twig-view": "^2.4"
+  }
+}
